@@ -69,7 +69,7 @@
       <td>Skudai, Johor</td>
     </tr>
     <tr>
-      <td><img width="25" height= "25" alt="image" srs="https://tse3.mm.bing.net/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"</td>
+      <td><img width="25" height= "25" alt="image" srs="https://as1.ftcdn.net/jpg/05/46/95/44/1000_F_546954440_daCgteCxiA4NFgSc9C98i1MvnxF0tXOG.jpg"</td>
       <td><a href="https://www.linkedin.com/in/hanani-sazwani-078751387/">The things I do daily on LinkedIn</a></td>
     </tr>
    
