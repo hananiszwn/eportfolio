@@ -30,8 +30,8 @@ I <!--Section 1: Introduce your self-->
 #### TECHNOLOGY AND INFORMATION SYSTEM
 ▶️ Assigment 1
 - [My reflection](https://github.com/hananiszwn/Semester-1/blob/c275f616ced844a1ece124c8fa6154be05df4219/Technology%20%26%20Information%20System/Assignment%201/Reflection.md)
- - [image](tis1.jpg)
- - [image](tis2.jpg)
+ - ![image](tis1.jpg)
+ - ![image](tis2.jpg)
 
 <!--Mention your top/re![image](1 anietie etuk data analytics car project.jpeg)
 
