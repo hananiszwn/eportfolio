@@ -45,6 +45,11 @@
 
 - [POSTER](https://github.com/hananiszwn/eportfolio/blob/3720099c9c7c54fabf44fbbebb54d019b87832b5/Group%2010%20Industry%20Talk%20)
 
+▶️ ASEAN Quantum Summit
+
+![image](tis4.jpg)
+
+-[REPORT]
   
 <!--Mention your top/re![image](1 anietie etuk data analytics car project.jpeg)
 
