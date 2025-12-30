@@ -66,7 +66,7 @@
     </tr>
     <tr>
       <td>📍</td>
-      <td>PH, Nigeria</td>
+      <td>Skudai, Johor</td>
     </tr>
     <tr>
       <td>⬇️</td>
