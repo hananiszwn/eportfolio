@@ -31,16 +31,20 @@
 ▶️ Assigment 1
 
 - [My reflection](https://github.com/hananiszwn/Semester-1/blob/c275f616ced844a1ece124c8fa6154be05df4219/Technology%20%26%20Information%20System/Assignment%201/Reflection.md)
+  
   ![image](tis1.jpg)
   ![image](tis2.jpg)
 
-- [link video](https://youtu.be/rvWaaMnH9rw)
+- [LINK VIDEO](https://youtu.be/rvWaaMnH9rw)
 
 ▶️ Assigment 2
 
--[My Reflection](https://github.com/hananiszwn/Semester-1/blob/c275f616ced844a1ece124c8fa6154be05df4219/Technology%20%26%20Information%20System/Assignment%202/reflection.md)
+- [My Reflection](https://github.com/hananiszwn/Semester-1/blob/c275f616ced844a1ece124c8fa6154be05df4219/Technology%20%26%20Information%20System/Assignment%202/reflection.md)
+  
 ![image](tis3.jpg)
-[e-poster](Group 10 Industry Talk Poster.pdf)
+
+- [POSTER](https://github.com/hananiszwn/eportfolio/blob/3720099c9c7c54fabf44fbbebb54d019b87832b5/Group%2010%20Industry%20Talk%20)
+
   
 <!--Mention your top/re![image](1 anietie etuk data analytics car project.jpeg)
 
