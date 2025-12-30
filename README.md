@@ -26,7 +26,6 @@
 ---
 <!--Section 2: List 3-4 key projects-->
 ## Academic Dashboard
----
 #### TECHNOLOGY AND INFORMATION SYSTEM
 ▶️ Assigment 1
 
@@ -49,7 +48,7 @@
 
 ![image](tis4.jpg)
 
--[REPORT]
+-[REPORT](https://github.com/hananiszwn/eportfolio/blob/ab8eb6df008cb992ff0d4b156350167062033ff9/ASEAN%20Quantum%20Summit.docx)
   
 <!--Mention your top/re![image](1 anietie etuk data analytics car project.jpeg)
 
