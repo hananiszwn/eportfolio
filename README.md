@@ -69,16 +69,9 @@
       <td>Skudai, Johor</td>
     </tr>
     <tr>
-      <td>⬇️</td>
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+      <td><img width="25" height= "25" alt="image" srs="https://tse3.mm.bing.net/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3"</td>
+      <td><a href="https://www.linkedin.com/in/hanani-sazwani-078751387/">The things I do daily on LinkedIn</a></td>
     </tr>
-    <tr>
-      <td>🌐</td>
-      <td><a href="https://linkedin.com/in/etukanietie">The things I do daily on LinkedIn</a></td>
-    </tr>
-    <tr>
-      <td>📺</td>
-      <td><a href="https://www.youtube.com/@LearnwithEtuk">Watch my tutorials on YouTube</a></td>
-    </tr>
+   
   </tbody>
 </table>
