@@ -10,7 +10,7 @@ I <!--Section 1: Introduce your self-->
 - HTML & C++
 - Data Engineering Fundamentals
 - Data Visualization and Storytelling
-
+---
 
 ## 📚 Education
 - Universiti Teknologi Malaysia (2025-Present)
@@ -23,11 +23,14 @@ I <!--Section 1: Introduce your self-->
      
 - SMK Bandar Tenggara 2 (2019-2024)
    - SPM: 5A 4A- 1B
-
+---
 <!--Section 2: List 3-4 key projects-->
 ## Academic Dashboard
-
-
+---
+#### TECHNOLOGY AND INFORMATION SYSTEM
+▶️ Assigment 1
+- [My reflection](https://github.com/hananiszwn/Semester-1/blob/c275f616ced844a1ece124c8fa6154be05df4219/Technology%20%26%20Information%20System/Assignment%201/Reflection.md)
+  [image]
 
 <!--Mention your top/re![image](1 anietie etuk data analytics car project.jpeg)
 
