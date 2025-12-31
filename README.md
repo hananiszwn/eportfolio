@@ -69,7 +69,7 @@
       <td>Skudai, Johor</td>
     </tr>
     <tr>
-      <td><img src = "/assets/icons/logo-linkedin-icon-4096.png" width="25" ></td>
+      <td><img src = "/logo-linkedin-icon-4096.png" width="25" ></td>
       <td><a href="https://www.linkedin.com/in/hanani-sazwani-078751387/">The things I do daily on LinkedIn</a></td>
     </tr>
    
