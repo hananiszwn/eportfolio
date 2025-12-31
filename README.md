@@ -62,7 +62,7 @@
     </tr>
     <tr>
       <td><img width="25" height="25" alt="image" src="https://th.bing.com/th/id/R.26d9974a1feec9905a4e0d5e5ddf8db6?rik=Og1ujXM2C1AJHQ&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2fa%2fa5%2fInstagram_icon.png&ehk=1%2fZWXYn2nN%2fR80TOtcKH5SsdLkkUvMLrB%2fHUXRDHk9I%3d&risl=&pid=ImgRaw&r=0"></td>
-      <td>@hananiszwn</td>
+      <td><a href="https://www.instagram.com/hananiszwn/">@hananiszwn</a></td>
     </tr>
     <tr>
       <td>📍</td>
