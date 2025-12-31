@@ -1,11 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
 body {
   background-color: #f8edeb;
-  font-family: Arial, sans-serif;
-  padding: 40px;
+  font-family: 'Poppins', Arial, sans-serif;
+  margin: 0;
+  padding: 40px 20px;
+  color: #333;
 }
 
-table {
+.container {
+  max-width: 900px;
+  margin: auto;
+}
+
+/* Section cards */
+.section {
   background: white;
-  padding: 15px;
-  border-radius: 10px;
+  padding: 30px;
+  margin-bottom: 30px;
+  border-radius: 18px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.06);
+}
+
+/* Profile styling */
+.profile {
+  text-align: center;
+}
+
+.profile img {
+  width: 160px;
+  height: 160px;
+  border-radius: 50%;
+  object-fit: cover;
+  margin-bottom: 15px;
+}
+
+/* Section headings */
+.section h2 {
+  margin-top: 0;
+  border-left: 6px solid #f4c2c2;
+  padding-left: 12px;
+  color: #d46a6a;
+}
+
+/* Assignments grid */
+.assignments {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 20px;
+}
+
+.assignment-card {
+  background: #fff5f7;
+  padding: 20px;
+  border-radius: 14px;
+  box-shadow: 0 4px 10px rgba(212, 106, 106, 0.15);
+}
+
+.assignment-card h4 {
+  margin-top: 0;
+  color: #b94f4f;
+}
+
+.images img {
+  width: 100%;
+  border-radius: 12px;
+  margin-top: 10px;
+}
+
+/* Contact table */
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+table td {
+  vertical-align: middle;
+  padding: 8px 10px;
+}
+
+table img {
+  width: 24px;
+  vertical-align: middle;
 }
